@@ -1,0 +1,84 @@
+
+exportt default[
+    {
+        id:'1',
+        title:'Array'
+    },
+    {
+        id:'2',
+        title:'Math'
+    },
+    {
+        id:'3',
+        title:'Searching'
+    },
+    {
+        id:'4',
+        title:'Sorting'
+    },
+    {
+        id:'5',
+        title:'Matrix'
+    },
+    {
+        id:'6',
+        title:'String'
+    },
+    {
+        id:'7',
+        title:'Hashing'
+    },
+    {
+        id:'8',
+        title:'Bit Masking'
+    },
+    {
+        id:'9',
+        title:'Linked List'
+    },
+    {
+        id:'10',
+        title:'Stack'
+    },
+    {
+        id:'11',
+        title:'Queue'
+    },
+    {
+        id:'12',
+        title:'Heap'
+    },
+    {
+        id:'13',
+        title:'Binary Tree'
+    },
+    {
+        id:'14',
+        title:'Binary Search Tree'
+    },
+    {
+        id:'15',
+        title:'Graph'
+    },
+    {
+        id:'16',
+        title:'Greedy'
+    },
+    {
+        id:'17',
+        title:'Dynamic Programing'
+    },
+    {
+        id:'18',
+        title:'Recursion'
+    },
+    {
+        id:'19',
+        title:'Algorithms'
+    },
+    {
+        id:'20',
+        title:'Design Patterns'
+    },
+
+]
