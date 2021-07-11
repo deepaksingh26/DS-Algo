@@ -1,0 +1,26 @@
+state=[
+    {id:1,
+    title:Rotate Arrey,
+    link:'https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1'
+    },
+    {id:2,
+    title:Majority Element,
+    link:'https://practice.geeksforgeeks.org/problems/'
+    },
+    {id:3,
+    title:Plus One,
+    link:'https://practice.geeksforgeeks.org/problems/plus-one/1/
+    },
+    {id:4,
+    title:Arrey of Alternative +ve And -ve nos,
+    link:'https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1'
+    },
+    {id:5,
+    title:Product Arrey Puzzle,
+    link:'https://practice.geeksforgeeks.org/problems/product-array-puzzle4525/1'
+    },
+    {id:6,
+    title:Large Factorial,
+    link:'https://practice.geeksforgeeks.org/problems/large-factorial4721/1/'
+    },
+]
