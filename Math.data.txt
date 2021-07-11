@@ -1,0 +1,14 @@
+state=[
+{id=1,
+ title:'Missing number in array',
+ link:'https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1'
+},
+{id=2,
+ title:'Minimum steps to make product equal to one',
+ link:'https://practice.geeksforgeeks.org/problems/minimum-steps-to-make-product-equal-to-one/1/'
+},
+{id=3,
+ title:'Trailing zeroes in factorial',
+ link:'https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1'
+},
+]
