@@ -1,0 +1,17 @@
+state=[
+    {
+        id:1,
+        title:'Left Most And Right Most Index'
+        link:'https://practice.geeksforgeeks.org/problems/find-first-and-last-occurrence-of-x0849/1'
+    },
+      {
+        id:2,
+        title:'Bitonic Point',
+        link:'https://practice.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1'
+    },
+      {
+        id:3,
+        title:'Collecting Wood',
+        link:'https://practice.geeksforgeeks.org/problems/ffd66b6a0bf7cefb9987fa455974b6ea5695709e/1/'
+    },
+]
